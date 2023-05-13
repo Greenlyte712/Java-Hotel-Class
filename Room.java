@@ -1,4 +1,4 @@
-package com.greenlyte712.model.hotel;
+package com.whatever.model.hotel;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

@@ -1,2 +1,1 @@
-# Java-Hotel-Class
-This is a Hotel java entity class
+I am uploading a Hotel Java class that I created so that anyone can use it or make changes to it as they wish, this is great for learning purposes, or any other purpose.
